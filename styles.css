@@ -1,0 +1,21 @@
+.headimg{
+    width: 80%;
+    bottom: 20px;
+}
+.btnbox{
+    display: flex;
+    height: 50px;
+}
+.mainbtn{
+    width: 150px;
+}
+.lilfo{
+    padding-right: 40%;
+}
+.spon1{
+    left:30px;
+}
+.lowtext{
+    line-height: 3.5rem;
+    padding-bottom: 30px;
+}
